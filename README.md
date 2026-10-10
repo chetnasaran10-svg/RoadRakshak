@@ -4,8 +4,7 @@ Spot it .Snap it .Fixed.
 [open RoadRakshak
 Website](https://chetnasaran10-svg.github.io/RoadRakshak/)
 ## Project Presentation
-[View Project PPT](./
-winning.pdf(4).pdf-2.pdf.pptx)
+[View Project PPT](<winning.pdf (4).pdf-2.pdf>)
+
 ## README Explanation
-[view README PPT](./
-Road Rakshak.md.pptx)
+[View README Explanation](<Road Rakshak.md>)
