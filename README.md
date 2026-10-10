@@ -5,6 +5,6 @@ Spot it .Snap it .Fixed.
 Website](https://chetnasaran10-svg.github.io/RoadRakshak/)
 ## Project Presentation
 [View Project PPT](<winning.pdf (4).pdf-2.pdf>)
-
 ## README Explanation
-[View README Explanation](<Road Rakshak.md>)
+
+[View README Explanation](./Road%20Rakshak.md)
