@@ -1,4 +1,4 @@
-# 🚧 Road Rakshak
+# Road Rakshak
 
 ### Smart Civic Hazard Reporting & Road Safety Web Application
 
